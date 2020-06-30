@@ -1,4 +1,4 @@
-#This is a calc file
+#This is a calc python script
 def add(a,b):
 	reurn a+b
 
